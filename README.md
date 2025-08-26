@@ -40,5 +40,3 @@ This system was designed as part of our Advanced Software Paradigm coursework to
 - FastAPI / Flask (depending on implementation)
 - ML/AI libraries (to support intelligent features)
 
-## 📂 Project Structure
-
