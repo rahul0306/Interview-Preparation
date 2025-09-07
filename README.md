@@ -40,3 +40,9 @@ This system was designed as part of our Advanced Software Paradigm coursework to
 - FastAPI / Flask (depending on implementation)
 - ML/AI libraries (to support intelligent features)
 
+### Screenshots
+
+<img width="2870" height="1702" alt="1" src="https://github.com/user-attachments/assets/f0c7ea81-b18d-4b31-b900-a6a0c8750826" />
+<img width="2880" height="1682" alt="3" src="https://github.com/user-attachments/assets/f7bdfa01-d126-4a99-ae2f-744892a9397d" />
+<img width="2880" height="1694" alt="5" src="https://github.com/user-attachments/assets/f6de6c12-512d-4684-8670-8b758f23125c" />
+
